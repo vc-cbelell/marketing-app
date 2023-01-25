@@ -3,4 +3,6 @@ from .views import *
 
 urlpatterns = [
     path('', Index),
+    path('p1', Page1),
+    
 ]
